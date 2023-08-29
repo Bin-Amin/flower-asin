@@ -37,3 +37,43 @@ html,body{
     border-radius: 10px;
     border-color:#fceef1;
 }
+
+.text-fild{
+    text-align: center;
+    margin-top: 100px;
+}
+
+.images-3{
+    display: flex;
+    align-items:baseline;
+    justify-content:center;
+    gap: 80px;
+    
+   
+}
+ .images-3 > div > img{
+    width: 250px;
+ }
+ .img-6{
+    background-color: #f2dee7;
+    border-radius: 50% 50% 0% 0%;
+    
+   
+ }
+ .img-5{
+    background-color: #daeff1;
+    border-radius: 50% 50% 0% 0%;
+    
+ }
+ .img-7{
+    background-color: #e3ecdb;
+    border-radius: 50% 50% 0% 0%;
+ }
+ .img-text{
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    gap: 220px;
+    margin-top: 10px;
+    text-decoration: underline;
+ }
