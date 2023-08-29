@@ -77,3 +77,19 @@ html,body{
     margin-top: 10px;
     text-decoration: underline;
  }
+
+
+ .section-3{
+    background-color: #fef6f8;
+   margin-top: 100px;
+   display: flex;
+   justify-content: space-around;
+   align-items: center;
+ }
+ .section-3 > img {
+    width: 200px;
+ }
+  .section-3-text{
+    text-align: center;
+    
+ }
