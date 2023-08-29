@@ -1,0 +1,39 @@
+*{
+    margin:0; padding:0;  
+    box-sizing: border-box; font-family: 'Gilroy';
+}
+html,body{
+    height:100%; width:100%;
+}
+
+.section-1{
+    background-color: #fceef1;
+    display: flex;
+    align-items: center;
+    padding: 20px 30px;
+    
+}
+.section-1 .img-1 {
+    width: 500px;
+    padding: 0px 100px;
+   
+}
+.text-1{
+    padding: 0px 50px;
+}
+.header-h1{
+    width: 500px;
+    padding: 10px 0px;
+}
+.header-p{
+    width: 800px;
+    padding: 20px 0px;
+}
+
+.header-btn{
+   background-color: #e55473;
+   color: #fceef1;
+   padding: 10px 23px;
+    border-radius: 10px;
+    border-color:#fceef1;
+}
