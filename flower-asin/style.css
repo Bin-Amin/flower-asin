@@ -100,8 +100,42 @@ html,body{
     display: flex;
     justify-content: center;
     gap: 30px;
-    padding-top: 50px;
+    padding: 100px 0px;
+
  }
  .imgesof-4 > div > img{
     width: 200px;
+ }
+
+ .last-section{
+    background: url('imge-file/Rectangle 9.png');
+    width: 65%;
+    position: absolute;
+   left: 18%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 35%;
+    border-radius: 10px;
+
+ }
+ .last-section-tex{
+   position: absolute;
+   top: 30%;
+   left: 49%;
+   transform: translate(-50%, -50%);
+  text-align: center;
+ }
+ .last-input{
+   position: absolute;
+  top: 60%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  
+ }
+
+ .last-input > input{
+   padding: 10px 60px;
+   border-radius: 8px;
+   background: #FFF;
+   border: none;
  }
