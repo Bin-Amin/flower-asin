@@ -68,6 +68,7 @@ html,body{
  .img-7{
     background-color: #e3ecdb;
     border-radius: 50% 50% 0% 0%;
+    
  }
  .img-text{
     display: flex;
@@ -92,4 +93,15 @@ html,body{
   .section-3-text{
     text-align: center;
     
+ }
+
+
+ .imgesof-4{
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    padding-top: 50px;
+ }
+ .imgesof-4 > div > img{
+    width: 200px;
  }
